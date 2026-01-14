@@ -1,0 +1,14 @@
+C:\Users\Yoan\Dev\PhysicsSimulator\bin\Debug\net10.0-windows\PhysicsSimulator.exe
+C:\Users\Yoan\Dev\PhysicsSimulator\bin\Debug\net10.0-windows\PhysicsSimulator.deps.json
+C:\Users\Yoan\Dev\PhysicsSimulator\bin\Debug\net10.0-windows\PhysicsSimulator.runtimeconfig.json
+C:\Users\Yoan\Dev\PhysicsSimulator\bin\Debug\net10.0-windows\PhysicsSimulator.dll
+C:\Users\Yoan\Dev\PhysicsSimulator\bin\Debug\net10.0-windows\PhysicsSimulator.pdb
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\PhysicsSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\PhysicsSimulator.AssemblyInfoInputs.cache
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\PhysicsSimulator.AssemblyInfo.cs
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\PhysicsSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\PhysicsSimulator.dll
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\refint\PhysicsSimulator.dll
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\PhysicsSimulator.pdb
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\PhysicsSimulator.genruntimeconfig.cache
+C:\Users\Yoan\Dev\PhysicsSimulator\obj\Debug\net10.0-windows\ref\PhysicsSimulator.dll
