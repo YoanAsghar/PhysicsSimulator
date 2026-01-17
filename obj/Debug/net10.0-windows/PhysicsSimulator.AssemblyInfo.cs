@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhysicsSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fe94e3bd180d44b740213acb90b6fcaf47b3f7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhysicsSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhysicsSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
